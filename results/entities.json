@@ -1,0 +1,624 @@
+{
+    "Entities": [
+        {
+            "BeginOffset": 45,
+            "EndOffset": 50,
+            "Score": 0.9732042551040649,
+            "Text": "today",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 58,
+            "EndOffset": 128,
+            "Score": 0.836219310760498,
+            "Text": "2021 Institute of International Finance (IIF) Washington Policy Summit",
+            "Type": "EVENT"
+        },
+        {
+            "BeginOffset": 241,
+            "EndOffset": 251,
+            "Score": 0.9989504218101501,
+            "Text": "Washington",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 322,
+            "EndOffset": 330,
+            "Score": 0.9648582935333252,
+            "Text": "one-time",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 341,
+            "EndOffset": 350,
+            "Score": 0.9997995495796204,
+            "Text": "Tim Adams",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 356,
+            "EndOffset": 361,
+            "Score": 0.9540984034538269,
+            "Text": "first",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 427,
+            "EndOffset": 442,
+            "Score": 0.935465931892395,
+            "Text": "Federal Reserve",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 546,
+            "EndOffset": 573,
+            "Score": 0.951158344745636,
+            "Text": "second quarter of last year",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 579,
+            "EndOffset": 587,
+            "Score": 0.714844286441803,
+            "Text": "COVID-19",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 689,
+            "EndOffset": 693,
+            "Score": 0.8201623558998108,
+            "Text": "U.S.",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 712,
+            "EndOffset": 728,
+            "Score": 0.6050177216529846,
+            "Text": "Great Depression",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 782,
+            "EndOffset": 794,
+            "Score": 0.9940224289894104,
+            "Text": "31.5 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 814,
+            "EndOffset": 836,
+            "Score": 0.9626659750938416,
+            "Text": "second quarter of 2020",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 838,
+            "EndOffset": 863,
+            "Score": 0.9255593419075012,
+            "Text": "more than 22 million jobs",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 877,
+            "EndOffset": 882,
+            "Score": 0.9968509078025818,
+            "Text": "March",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 887,
+            "EndOffset": 892,
+            "Score": 0.9925904273986816,
+            "Text": "April",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 932,
+            "EndOffset": 943,
+            "Score": 0.860725998878479,
+            "Text": "50-year low",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 947,
+            "EndOffset": 958,
+            "Score": 0.9949988722801208,
+            "Text": "3.5 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 962,
+            "EndOffset": 970,
+            "Score": 0.9929129481315613,
+            "Text": "February",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 974,
+            "EndOffset": 991,
+            "Score": 0.7912310361862183,
+            "Text": "almost 15 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 995,
+            "EndOffset": 1000,
+            "Score": 0.9945861101150513,
+            "Text": "April",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 1146,
+            "EndOffset": 1158,
+            "Score": 0.9779826998710632,
+            "Text": "one year ago",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 1172,
+            "EndOffset": 1188,
+            "Score": 0.8827312588691711,
+            "Text": "almost 8 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 1214,
+            "EndOffset": 1238,
+            "Score": 0.7620024085044861,
+            "Text": "second half of last year",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 1299,
+            "EndOffset": 1308,
+            "Score": 0.9904861450195312,
+            "Text": "6 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 1323,
+            "EndOffset": 1332,
+            "Score": 0.998065173625946,
+            "Text": "7 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 1334,
+            "EndOffset": 1343,
+            "Score": 0.9557967185974121,
+            "Text": "this year",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 1388,
+            "EndOffset": 1399,
+            "Score": 0.610201895236969,
+            "Text": "Projections",
+            "Type": "TITLE"
+        },
+        {
+            "BeginOffset": 1401,
+            "EndOffset": 1404,
+            "Score": 0.4166092872619629,
+            "Text": "SEP",
+            "Type": "TITLE"
+        },
+        {
+            "BeginOffset": 1421,
+            "EndOffset": 1450,
+            "Score": 0.9986007809638977,
+            "Text": "Federal Open Market Committee",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 1452,
+            "EndOffset": 1456,
+            "Score": 0.9780336022377014,
+            "Text": "FOMC",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 1488,
+            "EndOffset": 1492,
+            "Score": 0.9924442172050476,
+            "Text": "2021",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 1507,
+            "EndOffset": 1518,
+            "Score": 0.9986550211906433,
+            "Text": "6.5 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 1584,
+            "EndOffset": 1596,
+            "Score": 0.8535040020942688,
+            "Text": "four-quarter",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 1608,
+            "EndOffset": 1612,
+            "Score": 0.9363057017326355,
+            "Text": "1984",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 1655,
+            "EndOffset": 1658,
+            "Score": 0.775629460811615,
+            "Text": "IIF",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 1731,
+            "EndOffset": 1735,
+            "Score": 0.8889007568359375,
+            "Text": "U.S.",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 1775,
+            "EndOffset": 1779,
+            "Score": 0.8814645409584045,
+            "Text": "U.S.",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 1866,
+            "EndOffset": 1875,
+            "Score": 0.8861740827560425,
+            "Text": "this year",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 1998,
+            "EndOffset": 2005,
+            "Score": 0.9858828186988831,
+            "Text": "379,000",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2009,
+            "EndOffset": 2017,
+            "Score": 0.9976567029953003,
+            "Text": "February",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 2072,
+            "EndOffset": 2082,
+            "Score": 0.7912258505821228,
+            "Text": "two-thirds",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2113,
+            "EndOffset": 2121,
+            "Score": 0.9983046054840088,
+            "Text": "December",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 2126,
+            "EndOffset": 2133,
+            "Score": 0.997554361820221,
+            "Text": "January",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 2168,
+            "EndOffset": 2179,
+            "Score": 0.9990361928939819,
+            "Text": "9.5 million",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2279,
+            "EndOffset": 2290,
+            "Score": 0.9983721971511841,
+            "Text": "6.2 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2294,
+            "EndOffset": 2302,
+            "Score": 0.9930654764175415,
+            "Text": "February",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 2313,
+            "EndOffset": 2324,
+            "Score": 0.6677950024604797,
+            "Text": "one factors",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2506,
+            "EndOffset": 2516,
+            "Score": 0.9867066144943237,
+            "Text": "10 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 2584,
+            "EndOffset": 2588,
+            "Score": 0.9939684867858887,
+            "Text": "FOMC",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 2613,
+            "EndOffset": 2616,
+            "Score": 0.4139408767223358,
+            "Text": "SEP",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 2626,
+            "EndOffset": 2635,
+            "Score": 0.987479031085968,
+            "Text": "last week",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 2806,
+            "EndOffset": 2821,
+            "Score": 0.9763117432594299,
+            "Text": "Federal Reserve",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 2881,
+            "EndOffset": 2904,
+            "Score": 0.6389914155006409,
+            "Text": "Global Financial Crisis",
+            "Type": "EVENT"
+        },
+        {
+            "BeginOffset": 2932,
+            "EndOffset": 2936,
+            "Score": 0.9807050824165344,
+            "Text": "FOMC",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 2993,
+            "EndOffset": 3004,
+            "Score": 0.9983336925506592,
+            "Text": "4.5 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3012,
+            "EndOffset": 3015,
+            "Score": 0.806276798248291,
+            "Text": "end",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3019,
+            "EndOffset": 3028,
+            "Score": 0.6810759902000427,
+            "Text": "this year",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3033,
+            "EndOffset": 3044,
+            "Score": 0.99750155210495,
+            "Text": "3.5 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3052,
+            "EndOffset": 3063,
+            "Score": 0.9530723690986633,
+            "Text": "end of 2023",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3128,
+            "EndOffset": 3132,
+            "Score": 0.9958323836326599,
+            "Text": "FOMC",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 3149,
+            "EndOffset": 3160,
+            "Score": 0.9987359642982483,
+            "Text": "2.4 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3161,
+            "EndOffset": 3170,
+            "Score": 0.8703296184539795,
+            "Text": "this year",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3187,
+            "EndOffset": 3196,
+            "Score": 0.9982805252075195,
+            "Text": "2 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3197,
+            "EndOffset": 3206,
+            "Score": 0.9186687469482422,
+            "Text": "next year",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3232,
+            "EndOffset": 3243,
+            "Score": 0.8913628458976746,
+            "Text": "2.1 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3247,
+            "EndOffset": 3251,
+            "Score": 0.9960039258003235,
+            "Text": "2023",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3267,
+            "EndOffset": 3277,
+            "Score": 0.5566935539245605,
+            "Text": "few months",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3279,
+            "EndOffset": 3287,
+            "Score": 0.955538809299469,
+            "Text": "12-month",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3353,
+            "EndOffset": 3362,
+            "Score": 0.9971607327461243,
+            "Text": "2 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3478,
+            "EndOffset": 3492,
+            "Score": 0.8948001861572266,
+            "Text": "spring of 2020",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3702,
+            "EndOffset": 3711,
+            "Score": 0.997627317905426,
+            "Text": "2 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3731,
+            "EndOffset": 3735,
+            "Score": 0.9980294108390808,
+            "Text": "2022",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3740,
+            "EndOffset": 3744,
+            "Score": 0.9975476861000061,
+            "Text": "2023",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3825,
+            "EndOffset": 3836,
+            "Score": 0.9985195994377136,
+            "Text": "August 2020",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3867,
+            "EndOffset": 3881,
+            "Score": 0.997470498085022,
+            "Text": "September 2020",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 3882,
+            "EndOffset": 3886,
+            "Score": 0.9982020854949951,
+            "Text": "FOMC",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 3998,
+            "EndOffset": 4007,
+            "Score": 0.9966824650764465,
+            "Text": "2 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 4075,
+            "EndOffset": 4090,
+            "Score": 0.8676239252090454,
+            "Text": "below 2 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 4129,
+            "EndOffset": 4140,
+            "Score": 0.729931652545929,
+            "Text": "past decade",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 4202,
+            "EndOffset": 4211,
+            "Score": 0.9790030717849731,
+            "Text": "2 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 4273,
+            "EndOffset": 4277,
+            "Score": 0.9896457195281982,
+            "Text": "FOMC",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 4345,
+            "EndOffset": 4349,
+            "Score": 0.991555392742157,
+            "Text": "FOMC",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 4630,
+            "EndOffset": 4639,
+            "Score": 0.9954453706741333,
+            "Text": "September",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 4730,
+            "EndOffset": 4735,
+            "Score": 0.531467854976654,
+            "Text": "below",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 4736,
+            "EndOffset": 4745,
+            "Score": 0.7246782183647156,
+            "Text": "2 percent",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 4851,
+            "EndOffset": 4860,
+            "Score": 0.9965485334396362,
+            "Text": "2 percent",
+            "Type": "QUANTITY"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "content-length": "8838",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Tue, 30 Mar 2021 20:05:31 GMT",
+            "x-amzn-requestid": "dce92759-b27c-432e-ac08-ec525bb8ab88"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "dce92759-b27c-432e-ac08-ec525bb8ab88",
+        "RetryAttempts": 0
+    }
+}

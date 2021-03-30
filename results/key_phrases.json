@@ -1,0 +1,1173 @@
+{
+    "KeyPhrases": [
+        {
+            "BeginOffset": 6,
+            "EndOffset": 17,
+            "Score": 0.9999977946281433,
+            "Text": "my pleasure"
+        },
+        {
+            "BeginOffset": 45,
+            "EndOffset": 50,
+            "Score": 0.9968022108078003,
+            "Text": "today"
+        },
+        {
+            "BeginOffset": 54,
+            "EndOffset": 72,
+            "Score": 0.977019727230072,
+            "Text": "the 2021 Institute"
+        },
+        {
+            "BeginOffset": 76,
+            "EndOffset": 97,
+            "Score": 0.6309415698051453,
+            "Text": "International Finance"
+        },
+        {
+            "BeginOffset": 99,
+            "EndOffset": 102,
+            "Score": 0.9999555349349976,
+            "Text": "IIF"
+        },
+        {
+            "BeginOffset": 104,
+            "EndOffset": 128,
+            "Score": 0.999969482421875,
+            "Text": "Washington Policy Summit"
+        },
+        {
+            "BeginOffset": 160,
+            "EndOffset": 172,
+            "Score": 0.9999986886978149,
+            "Text": "this session"
+        },
+        {
+            "BeginOffset": 176,
+            "EndOffset": 182,
+            "Score": 0.9999685287475586,
+            "Text": "person"
+        },
+        {
+            "BeginOffset": 193,
+            "EndOffset": 197,
+            "Score": 0.5704519152641296,
+            "Text": "hope"
+        },
+        {
+            "BeginOffset": 198,
+            "EndOffset": 207,
+            "Score": 0.9997967481613159,
+            "Text": "next time"
+        },
+        {
+            "BeginOffset": 241,
+            "EndOffset": 251,
+            "Score": 0.9999737739562988,
+            "Text": "Washington"
+        },
+        {
+            "BeginOffset": 283,
+            "EndOffset": 297,
+            "Score": 0.9999998211860657,
+            "Text": "a conversation"
+        },
+        {
+            "BeginOffset": 303,
+            "EndOffset": 317,
+            "Score": 0.9999991059303284,
+            "Text": "my good friend"
+        },
+        {
+            "BeginOffset": 322,
+            "EndOffset": 350,
+            "Score": 0.9995062947273254,
+            "Text": "one-time colleague Tim Adams"
+        },
+        {
+            "BeginOffset": 388,
+            "EndOffset": 401,
+            "Score": 0.9999980330467224,
+            "Text": "a few remarks"
+        },
+        {
+            "BeginOffset": 405,
+            "EndOffset": 425,
+            "Score": 0.9999988079071045,
+            "Text": "the economic outlook"
+        },
+        {
+            "BeginOffset": 427,
+            "EndOffset": 458,
+            "Score": 0.9983057379722595,
+            "Text": "Federal Reserve monetary policy"
+        },
+        {
+            "BeginOffset": 464,
+            "EndOffset": 497,
+            "Score": 0.9999704360961914,
+            "Text": "our new monetary policy framework"
+        },
+        {
+            "BeginOffset": 500,
+            "EndOffset": 538,
+            "Score": 0.8950279355049133,
+            "Text": "Current Economic Situation and Outlook"
+        },
+        {
+            "BeginOffset": 542,
+            "EndOffset": 560,
+            "Score": 0.9999999403953552,
+            "Text": "the second quarter"
+        },
+        {
+            "BeginOffset": 564,
+            "EndOffset": 573,
+            "Score": 0.9999991655349731,
+            "Text": "last year"
+        },
+        {
+            "BeginOffset": 575,
+            "EndOffset": 596,
+            "Score": 0.9999719262123108,
+            "Text": "the COVID-19 pandemic"
+        },
+        {
+            "BeginOffset": 601,
+            "EndOffset": 623,
+            "Score": 0.9999884963035583,
+            "Text": "the mitigation efforts"
+        },
+        {
+            "BeginOffset": 631,
+            "EndOffset": 636,
+            "Score": 0.9999890327453613,
+            "Text": "place"
+        },
+        {
+            "BeginOffset": 661,
+            "EndOffset": 681,
+            "Score": 0.9999996423721313,
+            "Text": "the most severe blow"
+        },
+        {
+            "BeginOffset": 685,
+            "EndOffset": 701,
+            "Score": 0.9999997019767761,
+            "Text": "the U.S. economy"
+        },
+        {
+            "BeginOffset": 708,
+            "EndOffset": 728,
+            "Score": 0.9999991059303284,
+            "Text": "the Great Depression"
+        },
+        {
+            "BeginOffset": 730,
+            "EndOffset": 752,
+            "Score": 0.9999312162399292,
+            "Text": "Gross domestic product"
+        },
+        {
+            "BeginOffset": 754,
+            "EndOffset": 757,
+            "Score": 0.9999927282333374,
+            "Text": "GDP"
+        },
+        {
+            "BeginOffset": 772,
+            "EndOffset": 806,
+            "Score": 0.9900271892547607,
+            "Text": "a roughly 31.5 percent annual rate"
+        },
+        {
+            "BeginOffset": 810,
+            "EndOffset": 828,
+            "Score": 0.9999999403953552,
+            "Text": "the second quarter"
+        },
+        {
+            "BeginOffset": 832,
+            "EndOffset": 836,
+            "Score": 0.9999995231628418,
+            "Text": "2020"
+        },
+        {
+            "BeginOffset": 838,
+            "EndOffset": 863,
+            "Score": 0.9999451041221619,
+            "Text": "more than 22 million jobs"
+        },
+        {
+            "BeginOffset": 877,
+            "EndOffset": 892,
+            "Score": 0.9984316825866699,
+            "Text": "March and April"
+        },
+        {
+            "BeginOffset": 898,
+            "EndOffset": 919,
+            "Score": 0.9999940991401672,
+            "Text": "the unemployment rate"
+        },
+        {
+            "BeginOffset": 930,
+            "EndOffset": 943,
+            "Score": 0.9999967813491821,
+            "Text": "a 50-year low"
+        },
+        {
+            "BeginOffset": 947,
+            "EndOffset": 958,
+            "Score": 0.9999971389770508,
+            "Text": "3.5 percent"
+        },
+        {
+            "BeginOffset": 962,
+            "EndOffset": 970,
+            "Score": 0.9999979734420776,
+            "Text": "February"
+        },
+        {
+            "BeginOffset": 974,
+            "EndOffset": 991,
+            "Score": 0.9999929070472717,
+            "Text": "almost 15 percent"
+        },
+        {
+            "BeginOffset": 995,
+            "EndOffset": 1000,
+            "Score": 0.9999992847442627,
+            "Text": "April"
+        },
+        {
+            "BeginOffset": 1014,
+            "EndOffset": 1031,
+            "Score": 0.9999997019767761,
+            "Text": "economic activity"
+        },
+        {
+            "BeginOffset": 1068,
+            "EndOffset": 1079,
+            "Score": 0.9999991655349731,
+            "Text": "the economy"
+        },
+        {
+            "BeginOffset": 1122,
+            "EndOffset": 1135,
+            "Score": 0.9450532793998718,
+            "Text": "many forecast"
+        },
+        {
+            "BeginOffset": 1146,
+            "EndOffset": 1154,
+            "Score": 0.9998825788497925,
+            "Text": "one year"
+        },
+        {
+            "BeginOffset": 1160,
+            "EndOffset": 1163,
+            "Score": 0.999994158744812,
+            "Text": "GDP"
+        },
+        {
+            "BeginOffset": 1172,
+            "EndOffset": 1188,
+            "Score": 0.9999939203262329,
+            "Text": "almost 8 percent"
+        },
+        {
+            "BeginOffset": 1192,
+            "EndOffset": 1206,
+            "Score": 0.9999999403953552,
+            "Text": "an annual rate"
+        },
+        {
+            "BeginOffset": 1210,
+            "EndOffset": 1225,
+            "Score": 0.9999995231628418,
+            "Text": "the second half"
+        },
+        {
+            "BeginOffset": 1229,
+            "EndOffset": 1238,
+            "Score": 0.9999992847442627,
+            "Text": "last year"
+        },
+        {
+            "BeginOffset": 1244,
+            "EndOffset": 1263,
+            "Score": 0.9999992847442627,
+            "Text": "private forecasters"
+        },
+        {
+            "BeginOffset": 1277,
+            "EndOffset": 1280,
+            "Score": 0.9999935626983643,
+            "Text": "GDP"
+        },
+        {
+            "BeginOffset": 1291,
+            "EndOffset": 1308,
+            "Score": 0.9999286532402039,
+            "Text": "roughly 6 percent"
+        },
+        {
+            "BeginOffset": 1314,
+            "EndOffset": 1332,
+            "Score": 0.9809183478355408,
+            "Text": "possibly 7 percent"
+        },
+        {
+            "BeginOffset": 1334,
+            "EndOffset": 1343,
+            "Score": 0.9998990297317505,
+            "Text": "this year"
+        },
+        {
+            "BeginOffset": 1357,
+            "EndOffset": 1375,
+            "Score": 0.9990864992141724,
+            "Text": "the latest Summary"
+        },
+        {
+            "BeginOffset": 1379,
+            "EndOffset": 1399,
+            "Score": 0.9999253749847412,
+            "Text": "Economic Projections"
+        },
+        {
+            "BeginOffset": 1401,
+            "EndOffset": 1404,
+            "Score": 0.9999855756759644,
+            "Text": "SEP"
+        },
+        {
+            "BeginOffset": 1407,
+            "EndOffset": 1417,
+            "Score": 0.9999245405197144,
+            "Text": "the median"
+        },
+        {
+            "BeginOffset": 1421,
+            "EndOffset": 1450,
+            "Score": 0.9934732913970947,
+            "Text": "Federal Open Market Committee"
+        },
+        {
+            "BeginOffset": 1452,
+            "EndOffset": 1456,
+            "Score": 0.9999984502792358,
+            "Text": "FOMC"
+        },
+        {
+            "BeginOffset": 1458,
+            "EndOffset": 1471,
+            "Score": 0.9999113082885742,
+            "Text": "participants'"
+        },
+        {
+            "BeginOffset": 1472,
+            "EndOffset": 1483,
+            "Score": 0.9998971223831177,
+            "Text": "projections"
+        },
+        {
+            "BeginOffset": 1488,
+            "EndOffset": 1503,
+            "Score": 0.9999058246612549,
+            "Text": "2021 GDP growth"
+        },
+        {
+            "BeginOffset": 1507,
+            "EndOffset": 1518,
+            "Score": 0.9996918439865112,
+            "Text": "6.5 percent"
+        },
+        {
+            "BeginOffset": 1523,
+            "EndOffset": 1540,
+            "Score": 0.9999996423721313,
+            "Text": "these projections"
+        },
+        {
+            "BeginOffset": 1555,
+            "EndOffset": 1558,
+            "Score": 0.9999982118606567,
+            "Text": "GDP"
+        },
+        {
+            "BeginOffset": 1572,
+            "EndOffset": 1601,
+            "Score": 0.9999997019767761,
+            "Text": "the fastest four-quarter pace"
+        },
+        {
+            "BeginOffset": 1608,
+            "EndOffset": 1612,
+            "Score": 0.9999717473983765,
+            "Text": "1984"
+        },
+        {
+            "BeginOffset": 1630,
+            "EndOffset": 1647,
+            "Score": 0.9999998807907104,
+            "Text": "a virtual meeting"
+        },
+        {
+            "BeginOffset": 1651,
+            "EndOffset": 1658,
+            "Score": 0.9999998807907104,
+            "Text": "the IIF"
+        },
+        {
+            "BeginOffset": 1709,
+            "EndOffset": 1726,
+            "Score": 0.9999955892562866,
+            "Text": "these projections"
+        },
+        {
+            "BeginOffset": 1731,
+            "EndOffset": 1753,
+            "Score": 0.9980500340461731,
+            "Text": "U.S. economic activity"
+        },
+        {
+            "BeginOffset": 1768,
+            "EndOffset": 1787,
+            "Score": 0.996128499507904,
+            "Text": "rising U.S. imports"
+        },
+        {
+            "BeginOffset": 1802,
+            "EndOffset": 1821,
+            "Score": 0.9999471306800842,
+            "Text": "an important source"
+        },
+        {
+            "BeginOffset": 1825,
+            "EndOffset": 1840,
+            "Score": 0.9999982714653015,
+            "Text": "external demand"
+        },
+        {
+            "BeginOffset": 1844,
+            "EndOffset": 1852,
+            "Score": 0.9999998211860657,
+            "Text": "the rest"
+        },
+        {
+            "BeginOffset": 1856,
+            "EndOffset": 1865,
+            "Score": 0.9999997615814209,
+            "Text": "the world"
+        },
+        {
+            "BeginOffset": 1866,
+            "EndOffset": 1875,
+            "Score": 0.9999850392341614,
+            "Text": "this year"
+        },
+        {
+            "BeginOffset": 1897,
+            "EndOffset": 1922,
+            "Score": 0.9999936819076538,
+            "Text": "overall economic activity"
+        },
+        {
+            "BeginOffset": 1924,
+            "EndOffset": 1934,
+            "Score": 0.9999996423721313,
+            "Text": "conditions"
+        },
+        {
+            "BeginOffset": 1938,
+            "EndOffset": 1954,
+            "Score": 0.9999998807907104,
+            "Text": "the labor market"
+        },
+        {
+            "BeginOffset": 1979,
+            "EndOffset": 1989,
+            "Score": 0.9999967813491821,
+            "Text": "Employment"
+        },
+        {
+            "BeginOffset": 1998,
+            "EndOffset": 2005,
+            "Score": 0.9999990463256836,
+            "Text": "379,000"
+        },
+        {
+            "BeginOffset": 2009,
+            "EndOffset": 2017,
+            "Score": 0.9999998807907104,
+            "Text": "February"
+        },
+        {
+            "BeginOffset": 2022,
+            "EndOffset": 2056,
+            "Score": 0.9963938593864441,
+            "Text": "the leisure and hospitality sector"
+        },
+        {
+            "BeginOffset": 2066,
+            "EndOffset": 2082,
+            "Score": 0.9999812245368958,
+            "Text": "about two-thirds"
+        },
+        {
+            "BeginOffset": 2086,
+            "EndOffset": 2094,
+            "Score": 0.9999999403953552,
+            "Text": "the jobs"
+        },
+        {
+            "BeginOffset": 2113,
+            "EndOffset": 2133,
+            "Score": 0.9999421238899231,
+            "Text": "December and January"
+        },
+        {
+            "BeginOffset": 2148,
+            "EndOffset": 2158,
+            "Score": 0.9999977350234985,
+            "Text": "employment"
+        },
+        {
+            "BeginOffset": 2168,
+            "EndOffset": 2179,
+            "Score": 0.9998490214347839,
+            "Text": "9.5 million"
+        },
+        {
+            "BeginOffset": 2186,
+            "EndOffset": 2208,
+            "Score": 0.9999967217445374,
+            "Text": "its pre-pandemic level"
+        },
+        {
+            "BeginOffset": 2213,
+            "EndOffset": 2224,
+            "Score": 1.0,
+            "Text": "the economy"
+        },
+        {
+            "BeginOffset": 2228,
+            "EndOffset": 2235,
+            "Score": 0.9999990463256836,
+            "Text": "a whole"
+        },
+        {
+            "BeginOffset": 2237,
+            "EndOffset": 2258,
+            "Score": 0.999972403049469,
+            "Text": "The unemployment rate"
+        },
+        {
+            "BeginOffset": 2279,
+            "EndOffset": 2290,
+            "Score": 0.999997079372406,
+            "Text": "6.2 percent"
+        },
+        {
+            "BeginOffset": 2294,
+            "EndOffset": 2302,
+            "Score": 1.0,
+            "Text": "February"
+        },
+        {
+            "BeginOffset": 2313,
+            "EndOffset": 2324,
+            "Score": 0.9984750151634216,
+            "Text": "one factors"
+        },
+        {
+            "BeginOffset": 2328,
+            "EndOffset": 2339,
+            "Score": 0.999999463558197,
+            "Text": "the decline"
+        },
+        {
+            "BeginOffset": 2343,
+            "EndOffset": 2358,
+            "Score": 0.9999993443489075,
+            "Text": "the labor force"
+        },
+        {
+            "BeginOffset": 2365,
+            "EndOffset": 2374,
+            "Score": 0.9999993443489075,
+            "Text": "the onset"
+        },
+        {
+            "BeginOffset": 2378,
+            "EndOffset": 2390,
+            "Score": 1.0,
+            "Text": "the pandemic"
+        },
+        {
+            "BeginOffset": 2395,
+            "EndOffset": 2416,
+            "Score": 0.9999995827674866,
+            "Text": "the misclassification"
+        },
+        {
+            "BeginOffset": 2420,
+            "EndOffset": 2432,
+            "Score": 0.9999929666519165,
+            "Text": "some workers"
+        },
+        {
+            "BeginOffset": 2436,
+            "EndOffset": 2452,
+            "Score": 0.9999997615814209,
+            "Text": "temporary layoff"
+        },
+        {
+            "BeginOffset": 2466,
+            "EndOffset": 2492,
+            "Score": 0.9999951124191284,
+            "Text": "the true unemployment rate"
+        },
+        {
+            "BeginOffset": 2506,
+            "EndOffset": 2516,
+            "Score": 0.9999316334724426,
+            "Text": "10 percent"
+        },
+        {
+            "BeginOffset": 2552,
+            "EndOffset": 2576,
+            "Score": 0.9928045868873596,
+            "Text": "the baseline projections"
+        },
+        {
+            "BeginOffset": 2580,
+            "EndOffset": 2588,
+            "Score": 0.9999995827674866,
+            "Text": "the FOMC"
+        },
+        {
+            "BeginOffset": 2602,
+            "EndOffset": 2616,
+            "Score": 0.9999136924743652,
+            "Text": "the latest SEP"
+        },
+        {
+            "BeginOffset": 2626,
+            "EndOffset": 2635,
+            "Score": 0.9999603629112244,
+            "Text": "last week"
+        },
+        {
+            "BeginOffset": 2637,
+            "EndOffset": 2650,
+            "Score": 0.999967634677887,
+            "Text": "my colleagues"
+        },
+        {
+            "BeginOffset": 2682,
+            "EndOffset": 2693,
+            "Score": 0.9999991059303284,
+            "Text": "our outlook"
+        },
+        {
+            "BeginOffset": 2698,
+            "EndOffset": 2709,
+            "Score": 0.9999997019767761,
+            "Text": "the economy"
+        },
+        {
+            "BeginOffset": 2722,
+            "EndOffset": 2747,
+            "Score": 0.9999995827674866,
+            "Text": "a relatively rapid return"
+        },
+        {
+            "BeginOffset": 2751,
+            "EndOffset": 2757,
+            "Score": 0.9999878406524658,
+            "Text": "levels"
+        },
+        {
+            "BeginOffset": 2761,
+            "EndOffset": 2785,
+            "Score": 0.9999911189079285,
+            "Text": "employment and inflation"
+        },
+        {
+            "BeginOffset": 2802,
+            "EndOffset": 2821,
+            "Score": 0.9989191889762878,
+            "Text": "the Federal Reserve"
+        },
+        {
+            "BeginOffset": 2824,
+            "EndOffset": 2841,
+            "Score": 0.9999988675117493,
+            "Text": "statutory mandate"
+        },
+        {
+            "BeginOffset": 2859,
+            "EndOffset": 2871,
+            "Score": 0.9999994039535522,
+            "Text": "the recovery"
+        },
+        {
+            "BeginOffset": 2877,
+            "EndOffset": 2904,
+            "Score": 0.9999987483024597,
+            "Text": "the Global Financial Crisis"
+        },
+        {
+            "BeginOffset": 2921,
+            "EndOffset": 2948,
+            "Score": 0.9999970197677612,
+            "Text": "the median FOMC participant"
+        },
+        {
+            "BeginOffset": 2962,
+            "EndOffset": 2983,
+            "Score": 0.9999984502792358,
+            "Text": "the unemployment rate"
+        },
+        {
+            "BeginOffset": 2993,
+            "EndOffset": 3004,
+            "Score": 0.9999958276748657,
+            "Text": "4.5 percent"
+        },
+        {
+            "BeginOffset": 3008,
+            "EndOffset": 3015,
+            "Score": 1.0,
+            "Text": "the end"
+        },
+        {
+            "BeginOffset": 3019,
+            "EndOffset": 3028,
+            "Score": 0.9999979138374329,
+            "Text": "this year"
+        },
+        {
+            "BeginOffset": 3033,
+            "EndOffset": 3044,
+            "Score": 0.9999871253967285,
+            "Text": "3.5 percent"
+        },
+        {
+            "BeginOffset": 3048,
+            "EndOffset": 3055,
+            "Score": 1.0,
+            "Text": "the end"
+        },
+        {
+            "BeginOffset": 3059,
+            "EndOffset": 3063,
+            "Score": 1.0,
+            "Text": "2023"
+        },
+        {
+            "BeginOffset": 3082,
+            "EndOffset": 3091,
+            "Score": 0.9996115565299988,
+            "Text": "inflation"
+        },
+        {
+            "BeginOffset": 3093,
+            "EndOffset": 3124,
+            "Score": 0.9999781250953674,
+            "Text": "the median inflation projection"
+        },
+        {
+            "BeginOffset": 3128,
+            "EndOffset": 3145,
+            "Score": 0.999512255191803,
+            "Text": "FOMC participants"
+        },
+        {
+            "BeginOffset": 3149,
+            "EndOffset": 3160,
+            "Score": 0.9995297193527222,
+            "Text": "2.4 percent"
+        },
+        {
+            "BeginOffset": 3161,
+            "EndOffset": 3170,
+            "Score": 0.9999194741249084,
+            "Text": "this year"
+        },
+        {
+            "BeginOffset": 3187,
+            "EndOffset": 3196,
+            "Score": 0.999980628490448,
+            "Text": "2 percent"
+        },
+        {
+            "BeginOffset": 3197,
+            "EndOffset": 3206,
+            "Score": 0.9992439150810242,
+            "Text": "next year"
+        },
+        {
+            "BeginOffset": 3232,
+            "EndOffset": 3243,
+            "Score": 0.9999874830245972,
+            "Text": "2.1 percent"
+        },
+        {
+            "BeginOffset": 3247,
+            "EndOffset": 3251,
+            "Score": 0.9999997615814209,
+            "Text": "2023"
+        },
+        {
+            "BeginOffset": 3258,
+            "EndOffset": 3277,
+            "Score": 0.9999996423721313,
+            "Text": "the next few months"
+        },
+        {
+            "BeginOffset": 3279,
+            "EndOffset": 3296,
+            "Score": 0.9999973773956299,
+            "Text": "12-month measures"
+        },
+        {
+            "BeginOffset": 3300,
+            "EndOffset": 3309,
+            "Score": 0.999998927116394,
+            "Text": "inflation"
+        },
+        {
+            "BeginOffset": 3349,
+            "EndOffset": 3378,
+            "Score": 0.9970654249191284,
+            "Text": "our 2 percent longer-run goal"
+        },
+        {
+            "BeginOffset": 3389,
+            "EndOffset": 3394,
+            "Score": 0.9999501705169678,
+            "Text": "a run"
+        },
+        {
+            "BeginOffset": 3398,
+            "EndOffset": 3424,
+            "Score": 0.9999876618385315,
+            "Text": "year-over-year comparisons"
+        },
+        {
+            "BeginOffset": 3430,
+            "EndOffset": 3461,
+            "Score": 0.9999630451202393,
+            "Text": "depressed service-sector prices"
+        },
+        {
+            "BeginOffset": 3474,
+            "EndOffset": 3484,
+            "Score": 0.9999982714653015,
+            "Text": "the spring"
+        },
+        {
+            "BeginOffset": 3488,
+            "EndOffset": 3492,
+            "Score": 0.9999513626098633,
+            "Text": "2020"
+        },
+        {
+            "BeginOffset": 3497,
+            "EndOffset": 3515,
+            "Score": 0.9387573003768921,
+            "Text": "supply bottlenecks"
+        },
+        {
+            "BeginOffset": 3537,
+            "EndOffset": 3547,
+            "Score": 0.9999861717224121,
+            "Text": "production"
+        },
+        {
+            "BeginOffset": 3563,
+            "EndOffset": 3576,
+            "Score": 0.9999818205833435,
+            "Text": "the near term"
+        },
+        {
+            "BeginOffset": 3604,
+            "EndOffset": 3617,
+            "Score": 0.9999758005142212,
+            "Text": "this increase"
+        },
+        {
+            "BeginOffset": 3643,
+            "EndOffset": 3652,
+            "Score": 0.9786843657493591,
+            "Text": "inflation"
+        },
+        {
+            "BeginOffset": 3698,
+            "EndOffset": 3727,
+            "Score": 0.9741644263267517,
+            "Text": "our 2 percent longer-run goal"
+        },
+        {
+            "BeginOffset": 3731,
+            "EndOffset": 3744,
+            "Score": 0.999972939491272,
+            "Text": "2022 and 2023"
+        },
+        {
+            "BeginOffset": 3746,
+            "EndOffset": 3758,
+            "Score": 0.9969251155853271,
+            "Text": "This outcome"
+        },
+        {
+            "BeginOffset": 3793,
+            "EndOffset": 3810,
+            "Score": 0.999999463558197,
+            "Text": "the new framework"
+        },
+        {
+            "BeginOffset": 3825,
+            "EndOffset": 3836,
+            "Score": 0.9999914169311523,
+            "Text": "August 2020"
+        },
+        {
+            "BeginOffset": 3863,
+            "EndOffset": 3894,
+            "Score": 0.9999923706054688,
+            "Text": "our September 2020 FOMC meeting"
+        },
+        {
+            "BeginOffset": 3899,
+            "EndOffset": 3916,
+            "Score": 0.9999998211860657,
+            "Text": "our new framework"
+        },
+        {
+            "BeginOffset": 3929,
+            "EndOffset": 3947,
+            "Score": 0.9999992251396179,
+            "Text": "inflation outcomes"
+        },
+        {
+            "BeginOffset": 3958,
+            "EndOffset": 3980,
+            "Score": 0.9999827742576599,
+            "Text": "inflation expectations"
+        },
+        {
+            "BeginOffset": 3998,
+            "EndOffset": 4007,
+            "Score": 0.9999963045120239,
+            "Text": "2 percent"
+        },
+        {
+            "BeginOffset": 4025,
+            "EndOffset": 4042,
+            "Score": 0.9764928221702576,
+            "Text": "following periods"
+        },
+        {
+            "BeginOffset": 4048,
+            "EndOffset": 4057,
+            "Score": 0.999975323677063,
+            "Text": "inflation"
+        },
+        {
+            "BeginOffset": 4081,
+            "EndOffset": 4090,
+            "Score": 0.9999561309814453,
+            "Text": "2 percent"
+        },
+        {
+            "BeginOffset": 4104,
+            "EndOffset": 4112,
+            "Score": 0.9999974370002747,
+            "Text": "the case"
+        },
+        {
+            "BeginOffset": 4125,
+            "EndOffset": 4140,
+            "Score": 0.9999995827674866,
+            "Text": "the past decade"
+        },
+        {
+            "BeginOffset": 4142,
+            "EndOffset": 4157,
+            "Score": 0.9999684691429138,
+            "Text": "monetary policy"
+        },
+        {
+            "BeginOffset": 4171,
+            "EndOffset": 4180,
+            "Score": 0.9999294281005859,
+            "Text": "inflation"
+        },
+        {
+            "BeginOffset": 4202,
+            "EndOffset": 4211,
+            "Score": 0.9999792575836182,
+            "Text": "2 percent"
+        },
+        {
+            "BeginOffset": 4216,
+            "EndOffset": 4225,
+            "Score": 0.9999970197677612,
+            "Text": "some time"
+        },
+        {
+            "BeginOffset": 4249,
+            "EndOffset": 4263,
+            "Score": 0.9999992251396179,
+            "Text": "the next topic"
+        },
+        {
+            "BeginOffset": 4266,
+            "EndOffset": 4287,
+            "Score": 0.9756990075111389,
+            "Text": "Recent FOMC Decisions"
+        },
+        {
+            "BeginOffset": 4292,
+            "EndOffset": 4325,
+            "Score": 0.999512791633606,
+            "Text": "the New Monetary Policy Framework"
+        },
+        {
+            "BeginOffset": 4329,
+            "EndOffset": 4358,
+            "Score": 0.9994326233863831,
+            "Text": "our most recent FOMC meetings"
+        },
+        {
+            "BeginOffset": 4360,
+            "EndOffset": 4373,
+            "Score": 0.9999994039535522,
+            "Text": "the Committee"
+        },
+        {
+            "BeginOffset": 4379,
+            "EndOffset": 4396,
+            "Score": 0.9999977350234985,
+            "Text": "important changes"
+        },
+        {
+            "BeginOffset": 4400,
+            "EndOffset": 4420,
+            "Score": 0.9999931454658508,
+            "Text": "our policy statement"
+        },
+        {
+            "BeginOffset": 4435,
+            "EndOffset": 4455,
+            "Score": 0.9998842477798462,
+            "Text": "our forward guidance"
+        },
+        {
+            "BeginOffset": 4462,
+            "EndOffset": 4477,
+            "Score": 0.9999993443489075,
+            "Text": "the future path"
+        },
+        {
+            "BeginOffset": 4481,
+            "EndOffset": 4523,
+            "Score": 0.9583699107170105,
+            "Text": "the federal funds rate and asset purchases"
+        },
+        {
+            "BeginOffset": 4548,
+            "EndOffset": 4573,
+            "Score": 0.9999929666519165,
+            "Text": "unprecedented information"
+        },
+        {
+            "BeginOffset": 4580,
+            "EndOffset": 4608,
+            "Score": 0.9987057447433472,
+            "Text": "our policy reaction function"
+        },
+        {
+            "BeginOffset": 4626,
+            "EndOffset": 4649,
+            "Score": 0.9999925494194031,
+            "Text": "the September statement"
+        },
+        {
+            "BeginOffset": 4668,
+            "EndOffset": 4692,
+            "Score": 0.999978244304657,
+            "Text": "the following statements"
+        },
+        {
+            "BeginOffset": 4699,
+            "EndOffset": 4708,
+            "Score": 0.9819367527961731,
+            "Text": "inflation"
+        },
+        {
+            "BeginOffset": 4736,
+            "EndOffset": 4745,
+            "Score": 0.9996789693832397,
+            "Text": "2 percent"
+        },
+        {
+            "BeginOffset": 4747,
+            "EndOffset": 4757,
+            "Score": 0.9999904036521912,
+            "Text": "our policy"
+        },
+        {
+            "BeginOffset": 4778,
+            "EndOffset": 4796,
+            "Score": 0.9999989867210388,
+            "Text": "inflation outcomes"
+        },
+        {
+            "BeginOffset": 4807,
+            "EndOffset": 4829,
+            "Score": 0.9999990463256836,
+            "Text": "inflation expectations"
+        },
+        {
+            "BeginOffset": 4847,
+            "EndOffset": 4876,
+            "Score": 0.9985809922218323,
+            "Text": "our 2 percent longer-run goal"
+        },
+        {
+            "BeginOffset": 4900,
+            "EndOffset": 4923,
+            "Score": 0.9999999403953552,
+            "Text": "an accommodative stance"
+        },
+        {
+            "BeginOffset": 4927,
+            "EndOffset": 4942,
+            "Score": 0.9999998807907104,
+            "Text": "monetary policy"
+        },
+        {
+            "BeginOffset": 4949,
+            "EndOffset": 4963,
+            "Score": 0.9999976754188538,
+            "Text": "these outcomes"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "content-length": "17228",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Tue, 30 Mar 2021 19:57:28 GMT",
+            "x-amzn-requestid": "67d9e456-4e08-49e0-8816-4a7bdbde933f"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "67d9e456-4e08-49e0-8816-4a7bdbde933f",
+        "RetryAttempts": 0
+    }
+}
