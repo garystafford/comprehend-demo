@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Downloads/output (7)/doc-topics.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/output (7)/topic-terms.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/comprehend.py">
           <value>
             <Attribute>
