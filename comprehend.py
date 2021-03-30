@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-# Purpose: Analyze text with Amazon Comprehend - several different methods available herein
+# Purpose: Analyze text with Amazon Comprehend
 # Author:  Gary A. Stafford (March 2021)
-# Reference: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/comprehend.html
+# SDK Reference: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/comprehend.html
 # Sentiment analysis documents limited to 5,000 bytes for sync or async
 
 import json
