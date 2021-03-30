@@ -1,7 +1,7 @@
 # Amazon Comprehend Analyses Demo
 
 Example of several types of [Amazon Comprehend](https://aws.amazon.com/comprehend/) analyses: Sentiment, Syntax, Entity
-detection, Topic modeling, and Key phrases detection. Performed using the `boto3` SDK. Analyses performed on the March
+detection, Topic modeling (arbitrary 25 topics), and Key phrases detection. Performed using the `boto3` SDK. Analyses performed on the March
 25,
 2021 [U.S. Economic Outlook and Monetary Policy](https://www.federalreserve.gov/newsevents/speech/clarida20210325a.htm)
 speech, given at the 2021 Institute of International Finance Washington Policy Summit, Washington, D.C. (_via webcast_).
