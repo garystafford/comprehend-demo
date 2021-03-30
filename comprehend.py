@@ -51,6 +51,7 @@ def main():
     logging.info(f'Key Phrases (top 10): {json.dumps(key_phrases[0:10], indent=4, sort_keys=True)}')
 
     start_entities_detection_job('fed_speech_entities_detection', s3_uri_in_full)
+    start_topics_detection_job('fed_speech_topic_detection', s3_uri_in_full)
     start_key_phrases_detection_job('key_phrases_detection', s3_uri_in_full)
     start_sentiment_detection_job('fed_speech_sentiment_detection_p1', s3_uri_in_5k_p1)
     start_sentiment_detection_job('fed_speech_sentiment_detection_p2', s3_uri_in_5k_p2)
@@ -123,6 +124,28 @@ def detect_sentiment(content):
         )
         logging.info(json.dumps(response, indent=4, sort_keys=True))
         return response['Sentiment'], response['SentimentScore']
+    except ClientError as e:
+        logging.error(e)
+        exit(1)
+
+
+def start_topics_detection_job(job_name, s3_uri_in):
+    """Starts an asynchronous topic detection job."""
+
+    try:
+        response = client.start_topics_detection_job(
+            InputDataConfig={
+                'S3Uri': s3_uri_in,
+                'InputFormat': 'ONE_DOC_PER_FILE'
+            },
+            OutputDataConfig={
+                'S3Uri': S3_URI_OUT
+            },
+            DataAccessRoleArn=DATA_ACCESS_ROLE_ARN,
+            JobName=job_name,
+            NumberOfTopics=25
+        )
+        logging.info(f'Topic Detection Job Id: {response}')
     except ClientError as e:
         logging.error(e)
         exit(1)
