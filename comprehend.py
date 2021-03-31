@@ -145,7 +145,7 @@ def start_topics_detection_job(job_name, s3_uri_in):
             JobName=job_name,
             NumberOfTopics=25
         )
-        logging.info(f'Topic Detection Job Id: {response}')
+        logging.debug(f'Topic Detection Job Id: {response}')
     except ClientError as e:
         logging.error(e)
         exit(1)
@@ -167,7 +167,7 @@ def start_entities_detection_job(job_name, s3_uri_in):
             JobName=job_name,
             LanguageCode=LANGUAGE
         )
-        logging.info(f'Entities Detection Job Id: {response["JobId"]}')
+        logging.debug(f'Entities Detection Job Id: {response["JobId"]}')
     except ClientError as e:
         logging.error(e)
         exit(1)
@@ -189,7 +189,7 @@ def start_key_phrases_detection_job(job_name, s3_uri_in):
             JobName=job_name,
             LanguageCode=LANGUAGE
         )
-        logging.info(f'Key Phrase Detection Job Id: {response["JobId"]}')
+        logging.debug(f'Key Phrase Detection Job Id: {response["JobId"]}')
     except ClientError as e:
         logging.error(e)
         exit(1)
@@ -211,7 +211,7 @@ def start_sentiment_detection_job(job_name, s3_uri_in):
             JobName=job_name,
             LanguageCode=LANGUAGE
         )
-        logging.info(f'Sentiment Detection Job Id: {response["JobId"]}')
+        logging.debug(f'Sentiment Detection Job Id: {response["JobId"]}')
     except ClientError as e:
         logging.error(e)
         exit(1)
