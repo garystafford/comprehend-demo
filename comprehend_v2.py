@@ -16,7 +16,7 @@ logging.basicConfig(format='[%(asctime)s] %(levelname)s - %(message)s', level=lo
 client = boto3.client('comprehend')
 
 # *** CHANGE ME ***
-AWS_ACCOUNT = '676164205626'
+AWS_ACCOUNT = '111222333444'
 S3_URI_IN = f's3://comprehend-{AWS_ACCOUNT}-us-east-1/input/the_hill_we_climb_amanda_gorman.txt'
 S3_URI_OUT = f's3://comprehend-{AWS_ACCOUNT}-us-east-1/output/'
 DATA_ACCESS_ROLE_ARN = f'arn:aws:iam::{AWS_ACCOUNT}:role/service-role/AmazonComprehendServiceRole-S3'
@@ -132,7 +132,7 @@ def start_topics_detection_job(job_name, s3_uri_in):
             },
             DataAccessRoleArn=DATA_ACCESS_ROLE_ARN,
             JobName=job_name,
-            NumberOfTopics=25
+            NumberOfTopics=5
         )
         logging.info(f'Topic Detection Job Id: {response}')
     except ClientError as e:

@@ -143,7 +143,7 @@ def start_topics_detection_job(job_name, s3_uri_in):
             },
             DataAccessRoleArn=DATA_ACCESS_ROLE_ARN,
             JobName=job_name,
-            NumberOfTopics=25
+            NumberOfTopics=5
         )
         logging.debug(f'Topic Detection Job Id: {response}')
     except ClientError as e:
