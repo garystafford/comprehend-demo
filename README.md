@@ -1,4 +1,4 @@
-# Amazon Comprehend Analyses Demo
+# Amazon Comprehend Samples/Demonstration
 
 Example of several types of [Amazon Comprehend](https://aws.amazon.com/comprehend/) analyses: Sentiment, Syntax, Entity
 detection, Topic modeling (arbitrary 5 topics), and Key phrases detection. Analyses performed using the `boto3` Python SDK for Comprehend.
