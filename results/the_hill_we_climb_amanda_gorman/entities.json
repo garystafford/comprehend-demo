@@ -1,0 +1,127 @@
+{
+    "Entities": [
+        {
+            "BeginOffset": 19,
+            "EndOffset": 24,
+            "Score": 0.9890522360801697,
+            "Text": "Biden",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 32,
+            "EndOffset": 36,
+            "Score": 0.7141252756118774,
+            "Text": "Vice",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 52,
+            "EndOffset": 58,
+            "Score": 0.9839089512825012,
+            "Text": "Emhoff",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 60,
+            "EndOffset": 69,
+            "Score": 0.6989635229110718,
+            "Text": "Americans",
+            "Type": "PERSON"
+        },
+        {
+            "BeginOffset": 608,
+            "EndOffset": 609,
+            "Score": 0.6280686259269714,
+            "Text": "a",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 610,
+            "EndOffset": 623,
+            "Score": 0.8184301853179932,
+            "Text": "single mother",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 690,
+            "EndOffset": 693,
+            "Score": 0.5694453716278076,
+            "Text": "one",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 1098,
+            "EndOffset": 1103,
+            "Score": 0.7927513718605042,
+            "Text": "first",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 1113,
+            "EndOffset": 1118,
+            "Score": 0.9068911671638489,
+            "Text": "first",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 1858,
+            "EndOffset": 1866,
+            "Score": 0.49729230999946594,
+            "Text": "American",
+            "Type": "OTHER"
+        },
+        {
+            "BeginOffset": 3008,
+            "EndOffset": 3017,
+            "Score": 0.807264506816864,
+            "Text": "one thing",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3194,
+            "EndOffset": 3197,
+            "Score": 0.5615336894989014,
+            "Text": "one",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3399,
+            "EndOffset": 3408,
+            "Score": 0.5142013430595398,
+            "Text": "Northeast",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 3431,
+            "EndOffset": 3436,
+            "Score": 0.9117124676704407,
+            "Text": "first",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 3480,
+            "EndOffset": 3488,
+            "Score": 0.9905061721801758,
+            "Text": "Lake Rim",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 3503,
+            "EndOffset": 3513,
+            "Score": 0.9302758574485779,
+            "Text": "Midwestern",
+            "Type": "LOCATION"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "content-length": "1572",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Wed, 31 Mar 2021 15:31:57 GMT",
+            "x-amzn-requestid": "bcc9fdc2-291f-4788-9d2a-8440203cc4c3"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "bcc9fdc2-291f-4788-9d2a-8440203cc4c3",
+        "RetryAttempts": 0
+    }
+}

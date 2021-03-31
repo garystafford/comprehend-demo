@@ -1,0 +1,705 @@
+{
+    "KeyPhrases": [
+        {
+            "BeginOffset": 0,
+            "EndOffset": 13,
+            "Score": 0.9999924302101135,
+            "Text": "Mr. President"
+        },
+        {
+            "BeginOffset": 15,
+            "EndOffset": 24,
+            "Score": 0.999987006187439,
+            "Text": "Dr. Biden"
+        },
+        {
+            "BeginOffset": 26,
+            "EndOffset": 46,
+            "Score": 0.9999961256980896,
+            "Text": "Madam Vice President"
+        },
+        {
+            "BeginOffset": 48,
+            "EndOffset": 58,
+            "Score": 0.9999226927757263,
+            "Text": "Mr. Emhoff"
+        },
+        {
+            "BeginOffset": 60,
+            "EndOffset": 69,
+            "Score": 0.9999746084213257,
+            "Text": "Americans"
+        },
+        {
+            "BeginOffset": 74,
+            "EndOffset": 83,
+            "Score": 0.999999463558197,
+            "Text": "the world"
+        },
+        {
+            "BeginOffset": 90,
+            "EndOffset": 93,
+            "Score": 0.9999750852584839,
+            "Text": "day"
+        },
+        {
+            "BeginOffset": 135,
+            "EndOffset": 140,
+            "Score": 0.9852377772331238,
+            "Text": "light"
+        },
+        {
+            "BeginOffset": 144,
+            "EndOffset": 167,
+            "Score": 0.9999994039535522,
+            "Text": "this never-ending shade"
+        },
+        {
+            "BeginOffset": 169,
+            "EndOffset": 177,
+            "Score": 0.999983549118042,
+            "Text": "The loss"
+        },
+        {
+            "BeginOffset": 187,
+            "EndOffset": 191,
+            "Score": 0.869113028049469,
+            "Text": "asea"
+        },
+        {
+            "BeginOffset": 219,
+            "EndOffset": 228,
+            "Score": 1.0,
+            "Text": "the belly"
+        },
+        {
+            "BeginOffset": 232,
+            "EndOffset": 241,
+            "Score": 0.9999997615814209,
+            "Text": "the beast"
+        },
+        {
+            "BeginOffset": 281,
+            "EndOffset": 286,
+            "Score": 0.9998216032981873,
+            "Text": "peace"
+        },
+        {
+            "BeginOffset": 291,
+            "EndOffset": 312,
+            "Score": 0.981564998626709,
+            "Text": "the norms and notions"
+        },
+        {
+            "BeginOffset": 342,
+            "EndOffset": 349,
+            "Score": 0.9957693815231323,
+            "Text": "justice"
+        },
+        {
+            "BeginOffset": 360,
+            "EndOffset": 368,
+            "Score": 0.9999228119850159,
+            "Text": "the dawn"
+        },
+        {
+            "BeginOffset": 452,
+            "EndOffset": 460,
+            "Score": 0.9999998211860657,
+            "Text": "a nation"
+        },
+        {
+            "BeginOffset": 507,
+            "EndOffset": 521,
+            "Score": 0.9999912977218628,
+            "Text": "the successors"
+        },
+        {
+            "BeginOffset": 525,
+            "EndOffset": 534,
+            "Score": 0.9999999403953552,
+            "Text": "a country"
+        },
+        {
+            "BeginOffset": 539,
+            "EndOffset": 545,
+            "Score": 0.9999988675117493,
+            "Text": "a time"
+        },
+        {
+            "BeginOffset": 552,
+            "EndOffset": 571,
+            "Score": 0.999987781047821,
+            "Text": "a skinny black girl"
+        },
+        {
+            "BeginOffset": 587,
+            "EndOffset": 593,
+            "Score": 0.9998799562454224,
+            "Text": "slaves"
+        },
+        {
+            "BeginOffset": 608,
+            "EndOffset": 623,
+            "Score": 0.9999972581863403,
+            "Text": "a single mother"
+        },
+        {
+            "BeginOffset": 646,
+            "EndOffset": 655,
+            "Score": 0.9997031092643738,
+            "Text": "president"
+        },
+        {
+            "BeginOffset": 796,
+            "EndOffset": 803,
+            "Score": 0.9999999403953552,
+            "Text": "a union"
+        },
+        {
+            "BeginOffset": 846,
+            "EndOffset": 855,
+            "Score": 0.9999998211860657,
+            "Text": "our union"
+        },
+        {
+            "BeginOffset": 861,
+            "EndOffset": 868,
+            "Score": 0.999998927116394,
+            "Text": "purpose"
+        },
+        {
+            "BeginOffset": 881,
+            "EndOffset": 890,
+            "Score": 0.9999691247940063,
+            "Text": "a country"
+        },
+        {
+            "BeginOffset": 904,
+            "EndOffset": 916,
+            "Score": 0.964910089969635,
+            "Text": "all cultures"
+        },
+        {
+            "BeginOffset": 918,
+            "EndOffset": 924,
+            "Score": 0.9999793767929077,
+            "Text": "colors"
+        },
+        {
+            "BeginOffset": 926,
+            "EndOffset": 936,
+            "Score": 0.9999381303787231,
+            "Text": "characters"
+        },
+        {
+            "BeginOffset": 942,
+            "EndOffset": 952,
+            "Score": 0.9994686245918274,
+            "Text": "conditions"
+        },
+        {
+            "BeginOffset": 956,
+            "EndOffset": 959,
+            "Score": 0.999622106552124,
+            "Text": "man"
+        },
+        {
+            "BeginOffset": 976,
+            "EndOffset": 985,
+            "Score": 0.9907874464988708,
+            "Text": "our gazes"
+        },
+        {
+            "BeginOffset": 1053,
+            "EndOffset": 1063,
+            "Score": 0.9999996423721313,
+            "Text": "the divide"
+        },
+        {
+            "BeginOffset": 1087,
+            "EndOffset": 1097,
+            "Score": 0.9999944567680359,
+            "Text": "our future"
+        },
+        {
+            "BeginOffset": 1123,
+            "EndOffset": 1138,
+            "Score": 0.9999999403953552,
+            "Text": "our differences"
+        },
+        {
+            "BeginOffset": 1158,
+            "EndOffset": 1166,
+            "Score": 1.0,
+            "Text": "our arms"
+        },
+        {
+            "BeginOffset": 1187,
+            "EndOffset": 1195,
+            "Score": 0.9999991655349731,
+            "Text": "our arms"
+        },
+        {
+            "BeginOffset": 1199,
+            "EndOffset": 1210,
+            "Score": 0.8536620140075684,
+            "Text": "one another"
+        },
+        {
+            "BeginOffset": 1220,
+            "EndOffset": 1224,
+            "Score": 0.9984632730484009,
+            "Text": "harm"
+        },
+        {
+            "BeginOffset": 1228,
+            "EndOffset": 1244,
+            "Score": 0.9999832510948181,
+            "Text": "none and harmony"
+        },
+        {
+            "BeginOffset": 1258,
+            "EndOffset": 1267,
+            "Score": 0.9999628663063049,
+            "Text": "the globe"
+        },
+        {
+            "BeginOffset": 1486,
+            "EndOffset": 1492,
+            "Score": 0.9999010562896729,
+            "Text": "defeat"
+        },
+        {
+            "BeginOffset": 1530,
+            "EndOffset": 1538,
+            "Score": 0.9999966621398926,
+            "Text": "division"
+        },
+        {
+            "BeginOffset": 1541,
+            "EndOffset": 1550,
+            "Score": 0.9999468326568604,
+            "Text": "Scripture"
+        },
+        {
+            "BeginOffset": 1602,
+            "EndOffset": 1620,
+            "Score": 0.8849867582321167,
+            "Text": "their own vine and"
+        },
+        {
+            "BeginOffset": 1621,
+            "EndOffset": 1629,
+            "Score": 0.7353029847145081,
+            "Text": "fig tree"
+        },
+        {
+            "BeginOffset": 1634,
+            "EndOffset": 1640,
+            "Score": 0.9993486404418945,
+            "Text": "no one"
+        },
+        {
+            "BeginOffset": 1688,
+            "EndOffset": 1700,
+            "Score": 0.9999998211860657,
+            "Text": "her own time"
+        },
+        {
+            "BeginOffset": 1707,
+            "EndOffset": 1714,
+            "Score": 0.9999544620513916,
+            "Text": "victory"
+        },
+        {
+            "BeginOffset": 1728,
+            "EndOffset": 1737,
+            "Score": 0.999999463558197,
+            "Text": "the blade"
+        },
+        {
+            "BeginOffset": 1746,
+            "EndOffset": 1761,
+            "Score": 0.9999393224716187,
+            "Text": "all the bridges"
+        },
+        {
+            "BeginOffset": 1782,
+            "EndOffset": 1793,
+            "Score": 0.9999998211860657,
+            "Text": "the promise"
+        },
+        {
+            "BeginOffset": 1797,
+            "EndOffset": 1802,
+            "Score": 0.6046245694160461,
+            "Text": "glade"
+        },
+        {
+            "BeginOffset": 1804,
+            "EndOffset": 1812,
+            "Score": 0.9999911785125732,
+            "Text": "the hill"
+        },
+        {
+            "BeginOffset": 1870,
+            "EndOffset": 1887,
+            "Score": 0.9592363238334656,
+            "Text": "more than a pride"
+        },
+        {
+            "BeginOffset": 1905,
+            "EndOffset": 1913,
+            "Score": 0.9999978542327881,
+            "Text": "the past"
+        },
+        {
+            "BeginOffset": 1960,
+            "EndOffset": 1968,
+            "Score": 1.0,
+            "Text": "a forest"
+        },
+        {
+            "BeginOffset": 1988,
+            "EndOffset": 1998,
+            "Score": 0.9999999403953552,
+            "Text": "our nation"
+        },
+        {
+            "BeginOffset": 2035,
+            "EndOffset": 2046,
+            "Score": 1.0,
+            "Text": "our country"
+        },
+        {
+            "BeginOffset": 2068,
+            "EndOffset": 2077,
+            "Score": 0.9999971389770508,
+            "Text": "democracy"
+        },
+        {
+            "BeginOffset": 2079,
+            "EndOffset": 2090,
+            "Score": 0.9999939203262329,
+            "Text": "This effort"
+        },
+        {
+            "BeginOffset": 2125,
+            "EndOffset": 2134,
+            "Score": 0.9999996423721313,
+            "Text": "democracy"
+        },
+        {
+            "BeginOffset": 2205,
+            "EndOffset": 2215,
+            "Score": 0.9999977946281433,
+            "Text": "this truth"
+        },
+        {
+            "BeginOffset": 2220,
+            "EndOffset": 2230,
+            "Score": 0.9999999403953552,
+            "Text": "this faith"
+        },
+        {
+            "BeginOffset": 2258,
+            "EndOffset": 2266,
+            "Score": 0.9999997615814209,
+            "Text": "our eyes"
+        },
+        {
+            "BeginOffset": 2270,
+            "EndOffset": 2280,
+            "Score": 1.0,
+            "Text": "the future"
+        },
+        {
+            "BeginOffset": 2282,
+            "EndOffset": 2289,
+            "Score": 0.9999990463256836,
+            "Text": "history"
+        },
+        {
+            "BeginOffset": 2294,
+            "EndOffset": 2302,
+            "Score": 0.9999994039535522,
+            "Text": "its eyes"
+        },
+        {
+            "BeginOffset": 2318,
+            "EndOffset": 2325,
+            "Score": 0.9999999403953552,
+            "Text": "the era"
+        },
+        {
+            "BeginOffset": 2329,
+            "EndOffset": 2344,
+            "Score": 0.9999790787696838,
+            "Text": "just redemption"
+        },
+        {
+            "BeginOffset": 2362,
+            "EndOffset": 2375,
+            "Score": 0.9999988675117493,
+            "Text": "its inception"
+        },
+        {
+            "BeginOffset": 2408,
+            "EndOffset": 2417,
+            "Score": 0.9999994039535522,
+            "Text": "the heirs"
+        },
+        {
+            "BeginOffset": 2421,
+            "EndOffset": 2443,
+            "Score": 0.9999793767929077,
+            "Text": "such a terrifying hour"
+        },
+        {
+            "BeginOffset": 2469,
+            "EndOffset": 2478,
+            "Score": 0.9999998807907104,
+            "Text": "the power"
+        },
+        {
+            "BeginOffset": 2482,
+            "EndOffset": 2488,
+            "Score": 0.8813175559043884,
+            "Text": "author"
+        },
+        {
+            "BeginOffset": 2489,
+            "EndOffset": 2502,
+            "Score": 0.9998180866241455,
+            "Text": "a new chapter"
+        },
+        {
+            "BeginOffset": 2513,
+            "EndOffset": 2530,
+            "Score": 0.999860942363739,
+            "Text": "hope and laughter"
+        },
+        {
+            "BeginOffset": 2603,
+            "EndOffset": 2614,
+            "Score": 0.9999929666519165,
+            "Text": "catastrophe"
+        },
+        {
+            "BeginOffset": 2742,
+            "EndOffset": 2751,
+            "Score": 0.9999992251396179,
+            "Text": "a country"
+        },
+        {
+            "BeginOffset": 2867,
+            "EndOffset": 2879,
+            "Score": 0.9977572560310364,
+            "Text": "intimidation"
+        },
+        {
+            "BeginOffset": 2896,
+            "EndOffset": 2920,
+            "Score": 0.9999604225158691,
+            "Text": "our inaction and inertia"
+        },
+        {
+            "BeginOffset": 2929,
+            "EndOffset": 2944,
+            "Score": 0.9999999403953552,
+            "Text": "the inheritance"
+        },
+        {
+            "BeginOffset": 2948,
+            "EndOffset": 2967,
+            "Score": 0.9999998807907104,
+            "Text": "the next generation"
+        },
+        {
+            "BeginOffset": 2969,
+            "EndOffset": 2981,
+            "Score": 0.9999420046806335,
+            "Text": "Our blunders"
+        },
+        {
+            "BeginOffset": 2989,
+            "EndOffset": 3002,
+            "Score": 0.9999986886978149,
+            "Text": "their burdens"
+        },
+        {
+            "BeginOffset": 3008,
+            "EndOffset": 3017,
+            "Score": 0.99985671043396,
+            "Text": "one thing"
+        },
+        {
+            "BeginOffset": 3042,
+            "EndOffset": 3047,
+            "Score": 0.9999268054962158,
+            "Text": "mercy"
+        },
+        {
+            "BeginOffset": 3081,
+            "EndOffset": 3090,
+            "Score": 0.7022968530654907,
+            "Text": "then love"
+        },
+        {
+            "BeginOffset": 3099,
+            "EndOffset": 3109,
+            "Score": 0.9999997019767761,
+            "Text": "our legacy"
+        },
+        {
+            "BeginOffset": 3121,
+            "EndOffset": 3133,
+            "Score": 0.9999958872795105,
+            "Text": "our children"
+        },
+        {
+            "BeginOffset": 3133,
+            "EndOffset": 3146,
+            "Score": 0.9997649788856506,
+            "Text": "\u2019s birthright"
+        },
+        {
+            "BeginOffset": 3172,
+            "EndOffset": 3181,
+            "Score": 1.0,
+            "Text": "a country"
+        },
+        {
+            "BeginOffset": 3217,
+            "EndOffset": 3229,
+            "Score": 0.9999958276748657,
+            "Text": "Every breath"
+        },
+        {
+            "BeginOffset": 3235,
+            "EndOffset": 3258,
+            "Score": 0.999871015548706,
+            "Text": "my bronze-pounded chest"
+        },
+        {
+            "BeginOffset": 3273,
+            "EndOffset": 3291,
+            "Score": 0.9999998211860657,
+            "Text": "this wounded world"
+        },
+        {
+            "BeginOffset": 3297,
+            "EndOffset": 3311,
+            "Score": 0.9999102354049683,
+            "Text": "a wondrous one"
+        },
+        {
+            "BeginOffset": 3331,
+            "EndOffset": 3352,
+            "Score": 0.9998263120651245,
+            "Text": "the gold-limbed hills"
+        },
+        {
+            "BeginOffset": 3356,
+            "EndOffset": 3364,
+            "Score": 0.9992368817329407,
+            "Text": "the West"
+        },
+        {
+            "BeginOffset": 3384,
+            "EndOffset": 3408,
+            "Score": 0.9996026158332825,
+            "Text": "the wind-swept Northeast"
+        },
+        {
+            "BeginOffset": 3415,
+            "EndOffset": 3430,
+            "Score": 0.9999915361404419,
+            "Text": "our forefathers"
+        },
+        {
+            "BeginOffset": 3446,
+            "EndOffset": 3456,
+            "Score": 0.9999969005584717,
+            "Text": "revolution"
+        },
+        {
+            "BeginOffset": 3476,
+            "EndOffset": 3495,
+            "Score": 0.999997079372406,
+            "Text": "the Lake Rim cities"
+        },
+        {
+            "BeginOffset": 3499,
+            "EndOffset": 3520,
+            "Score": 0.9999995231628418,
+            "Text": "the Midwestern states"
+        },
+        {
+            "BeginOffset": 3540,
+            "EndOffset": 3559,
+            "Score": 0.976356029510498,
+            "Text": "the sun-baked South"
+        },
+        {
+            "BeginOffset": 3603,
+            "EndOffset": 3619,
+            "Score": 0.9999999403953552,
+            "Text": "every known nook"
+        },
+        {
+            "BeginOffset": 3623,
+            "EndOffset": 3633,
+            "Score": 1.0,
+            "Text": "our nation"
+        },
+        {
+            "BeginOffset": 3638,
+            "EndOffset": 3650,
+            "Score": 1.0,
+            "Text": "every corner"
+        },
+        {
+            "BeginOffset": 3658,
+            "EndOffset": 3669,
+            "Score": 1.0,
+            "Text": "our country"
+        },
+        {
+            "BeginOffset": 3670,
+            "EndOffset": 3680,
+            "Score": 0.9999925494194031,
+            "Text": "our people"
+        },
+        {
+            "BeginOffset": 3744,
+            "EndOffset": 3747,
+            "Score": 0.9999289512634277,
+            "Text": "day"
+        },
+        {
+            "BeginOffset": 3770,
+            "EndOffset": 3786,
+            "Score": 0.9813896417617798,
+            "Text": "the shade aflame"
+        },
+        {
+            "BeginOffset": 3801,
+            "EndOffset": 3813,
+            "Score": 0.9999786615371704,
+            "Text": "The new dawn"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "content-length": "9683",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Wed, 31 Mar 2021 15:31:58 GMT",
+            "x-amzn-requestid": "99ce07bc-ea4f-4110-9984-00050a764fca"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "99ce07bc-ea4f-4110-9984-00050a764fca",
+        "RetryAttempts": 0
+    }
+}

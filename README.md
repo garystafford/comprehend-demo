@@ -1,22 +1,25 @@
 # Amazon Comprehend Analyses Demo
 
 Example of several types of [Amazon Comprehend](https://aws.amazon.com/comprehend/) analyses: Sentiment, Syntax, Entity
-detection, Topic modeling (arbitrary 25 topics), and Key phrases detection. Performed using the `boto3` SDK. Analyses performed on the March
-25,
-2021 [U.S. Economic Outlook and Monetary Policy](https://www.federalreserve.gov/newsevents/speech/clarida20210325a.htm)
-speech, given at the 2021 Institute of International Finance Washington Policy Summit, Washington, D.C. (_via webcast_).
+detection, Topic modeling (arbitrary 25 topics), and Key phrases detection. Analyses performed using the `boto3` Python SDK for Comprehend.
 
-## Content
+## Analysis Sources
+ - The March 25, 2021 [U.S. Economic Outlook and Monetary Policy](https://www.federalreserve.gov/newsevents/speech/clarida20210325a.htm) speech, given at the 2021 Institute of International Finance Washington Policy Summit, Washington, D.C..
 
-See the [content](./content) directory for text content used for the analysis. Note Sentiment analysis with Amazon
-Comprehend is limited to only 5,000 bytes. Thus, the speech had to be split into two halves for only the Sentiment
-analysis
+- Amanda Gorman's poem, 'The Hill We Climb', read at Joe Biden’s 2021 Presidential Inauguration.
 
-## Script
+## Textual Content
 
-The [comprehend.py](./comprehend.py) script was used to perform all analyses.
+See the [content](./content) directory for text content used for the analysis. Note Sentiment analysis with Amazon Comprehend is limited to only 5,000 bytes. Thus, the Monetary Policy speech had to be split into two halves for only the Sentiment
+analysis.
 
-## Results
+## Python Scripts
 
-See the [results](./results) directory for Amazon Comprehend results. All results are in JSON,
-except [topic modeling](./results/topic_modeling), which is in CSV.
+- The [comprehend_v1.py](comprehend_v1.py) Python 3 script was used to perform all analyses for the longer Monetary Policy speech.
+
+- The [comprehend_v2.py](comprehend_v2.py) Python 3 script was used to perform all analyses for the shorter Amanda Gorman poem.
+
+
+## Analysis Results
+
+See the [results](./results) directory for Amazon Comprehend results. All results are in JSON format, except [topic modeling](results/us_economic_outlook_monetary_policy/topic_modeling), which is in CSV format.

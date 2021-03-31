@@ -1,0 +1,20 @@
+{
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "content-length": "162",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Wed, 31 Mar 2021 15:31:57 GMT",
+            "x-amzn-requestid": "1f3355ac-943c-4968-8b58-e0d101bcb8b4"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "1f3355ac-943c-4968-8b58-e0d101bcb8b4",
+        "RetryAttempts": 0
+    },
+    "Sentiment": "NEUTRAL",
+    "SentimentScore": {
+        "Mixed": 0.0011733748251572251,
+        "Negative": 0.030445601791143417,
+        "Neutral": 0.6180474758148193,
+        "Positive": 0.350333571434021
+    }
+}
