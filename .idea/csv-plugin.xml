@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/Comprehend/analyze.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/README.md">
           <value>
             <Attribute>
@@ -45,6 +52,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/comprehend_v1.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/nltk_prep.py">
           <value>
             <Attribute>
@@ -53,6 +67,27 @@
           </value>
         </entry>
         <entry key="/results.txt">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/results/the_hill_we_climb_amanda_gorman/topic_modeling/doc-topics.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/results/the_hill_we_climb_amanda_gorman/topic_modeling/topic-terms.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/results/us_economic_outlook_monetary_policy/topic_modeling/doc-topics.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

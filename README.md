@@ -4,7 +4,7 @@ Example of several types of [Amazon Comprehend](https://aws.amazon.com/comprehen
 detection, Topic modeling (arbitrary 5 topics), and Key phrases detection. Analyses performed using the `boto3` Python SDK for Comprehend.
 
 ## Analysis Sources
- - The March 25, 2021 [U.S. Economic Outlook and Monetary Policy](https://www.federalreserve.gov/newsevents/speech/clarida20210325a.htm) speech, given at the 2021 Institute of International Finance Washington Policy Summit, Washington, D.C..
+ - The March 25, 2021 [U.S. Economic Outlook and Monetary Policy](https://www.federalreserve.gov/newsevents/speech/clarida20210325a.htm) speech, given at the 2021 Institute of International Finance Washington Policy Summit, Washington, D.C.
 
 - Amanda Gorman's poem, 'The Hill We Climb', read at Joe Biden’s 2021 Presidential Inauguration.
 
@@ -15,9 +15,9 @@ analysis.
 
 ## Python Scripts
 
-- The [comprehend_v1.py](comprehend_v1.py) Python 3 script was used to perform all analyses for the longer Monetary Policy speech.
+- The [comprehend_monetary_policy.py](comprehend_monetary_policy.py) Python 3 script was used to perform all analyses for the longer Monetary Policy speech.
 
-- The [comprehend_v2.py](comprehend_v2.py) Python 3 script was used to perform all analyses for the shorter Amanda Gorman poem.
+- The [comprehend_gorman_poem.py](comprehend_gorman_poem.py) Python 3 script was used to perform all analyses for the shorter Amanda Gorman poem.
 
 
 ## Analysis Results
