@@ -6,7 +6,7 @@ detection, Topic modeling (arbitrary 5 topics), and Key phrases detection. Analy
 ## Analysis Sources
  - The March 25, 2021 [U.S. Economic Outlook and Monetary Policy](https://www.federalreserve.gov/newsevents/speech/clarida20210325a.htm) speech, given at the 2021 Institute of International Finance Washington Policy Summit, Washington, D.C.
 
-- Amanda Gorman's poem, [The Hill We Climb](https://www.rev.com/blog/transcripts/amanda-gorman-inauguration-poem-transcript-the-hill-we-climb), read at Joe Biden’s 2021 Presidential Inauguration.
+- Amanda Gorman's poem, [The Hill We Climb](https://www.rev.com/blog/transcripts/amanda-gorman-inauguration-poem-transcript-the-hill-we-climb), read at Joe Biden’s January 20, 2021 Presidential Inauguration.
 
 ## Textual Content
 
