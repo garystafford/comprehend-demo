@@ -8,7 +8,7 @@
 import json
 import logging
 
-import Comprehend.analyze as comprehend
+import Comprehend.detect as comprehend
 
 logging.basicConfig(format='[%(asctime)s] %(levelname)s - %(message)s', level=logging.INFO)
 
